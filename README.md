@@ -1,7 +1,7 @@
 Automated SNP calling 1.2 
 ==================
 
-Custom automated workflow that works in Geneious R7+
+Custom automated workflow that works in Geneious R8+
 
 User input: reference sequence and raw sequences for which SNPs are to be identified (raw sequences need to be in sequence list format - right-click, select all sequences, then group into seq list) 
 
