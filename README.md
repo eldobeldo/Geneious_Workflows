@@ -1,4 +1,4 @@
-Automated SNP calling 2.0 
+Automated SNP calling 1.2 
 ==================
 
 Custom automated workflow that works in Geneious R7+
